@@ -11,8 +11,7 @@ body {
 
 /* navigation menu */
 nav {
-    border-radius: 20px;
-    background: red (239, 80, 41);
+    background: rgb(239, 80, 41);
    margin: 0 auto;
    margin-bottom: 20px;
     display: flex;
